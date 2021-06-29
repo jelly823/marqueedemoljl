@@ -28,12 +28,12 @@
       </div>
     </div>
     <div>
-      当前动画速度speed：{{ this.myspeed }} <br />
-      当前动画持续时间duration：{{ this.duration }}<br />
-      当前盒子宽度boxWidth：{{ this.boxWidth }}<br />
-      当前一个弹幕总宽度itemWidth：{{ this.itemWidth }}<br />
-      marqueeLi2宽度：{{ this.item2 }}<br />
-      当前ul的translateX值：{{ this.translateXljl }}<br />
+      当前动画速度speed：{{ myspeed }} <br />
+      当前动画持续时间duration：{{ duration }}<br />
+      当前盒子宽度boxWidth：{{ boxWidth }}<br />
+      当前一个弹幕总宽度itemWidth：{{ itemWidth }}<br />
+      marqueeLi2宽度：{{ item2 }}<br />
+      当前ul的translateX值：{{ translateXljl }}<br />
     </div>
   </div>
 </template>
